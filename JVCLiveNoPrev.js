@@ -1,4 +1,4 @@
-// ==UserScript==
+// ==UserScript==-
 // @name JVC Live
 // @description Charger les nouveaux messages en direct sur JVC
 // @author Singles
